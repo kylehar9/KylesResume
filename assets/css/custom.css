@@ -1,0 +1,24 @@
+/*.container .row .col-lg-4 {*/
+/*    height: 360px; !* Adjust the height to your desired visible area *!*/
+/*    overflow: hidden; !* Hide the overflowing part of the image *!*/
+/*}*/
+
+/*.container .row .col-lg-4 img {*/
+/*    width: 100%; !* Make sure the image fills the container *!*/
+/*    object-fit: cover; !* Ensures proper aspect ratio while cropping *!*/
+/*    position: relative; !* Necessary for cropping behavior *!*/
+/*    max-height: 560px;*/
+/*}*/
+
+/*!* Mobile View (Adjust the breakpoint as needed) *!*/
+/*@media (max-width: 991px) {*/
+/*    .container .row .col-lg-4 {*/
+/*        height: auto; !* Allow full height of the image *!*/
+/*        overflow: visible; !* No cropping *!*/
+/*    }*/
+
+/*    .container .row .col-lg-4 img {*/
+/*        object-fit: contain; !* Ensure the entire image is visible *!*/
+/*        max-height: 100%;*/
+/*    }*/
+/*}*/
