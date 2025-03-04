@@ -1,3 +1,10 @@
+.skill-icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
 /*.container .row .col-lg-4 {*/
 /*    height: 360px; !* Adjust the height to your desired visible area *!*/
 /*    overflow: hidden; !* Hide the overflowing part of the image *!*/
